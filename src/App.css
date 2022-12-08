@@ -83,6 +83,12 @@ button:active{
 .reset{
   background-color: #a24141;
 }
+
+.tag{
+  text-align: center;
+  display: block;
+}
+
 @media only screen and (max-width:1400px) {
   #calculator-container{
       width: 50%;
